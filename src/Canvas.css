@@ -1,0 +1,8 @@
+#input-canvas {
+    border: 1px solid gray;
+    background: white;
+}
+
+#input-canvas-scaled {
+    display: none;
+}
